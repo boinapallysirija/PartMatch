@@ -1,0 +1,6 @@
+{
+  "name": "PartMatch – Smart Engineering Component Marketplace",
+  "description": "Smart engineering and college project component marketplace that matches the components you already have with projects you can build and provides one-click missing parts ordering.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
